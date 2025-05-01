@@ -140,5 +140,6 @@ Note:- Considering this as a Sample Project, we have not much considered of web 
 
 <bold>Thanks a lot,</bold><br/>
 
-This is india                                                                                                        Project Leader<br/>
+This is Bharat
+Project Leader<br/>
                                                                                                          <b>Shashi Raj</b>
