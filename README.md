@@ -140,7 +140,7 @@ Note:- Considering this as a Sample Project, we have not much considered of web 
 
 <bold>Thanks a lot,</bold><br/>
 
-This is Bharat
+This is India
 Project Leader<br/>
                                                                                                 <b>Karthik Bharadwaj</b>
 
